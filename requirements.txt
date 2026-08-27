@@ -1,0 +1,11 @@
+# 第11篇SCI 依赖（2026-08-21, Python 3.11.9, 复用第10篇环境）
+numpy==1.26.4
+pandas==3.0.5
+scipy==1.17.1
+scikit-learn==1.9.0
+torch==2.13.0+cpu
+networkx==3.6.1
+tigramite==5.2.10.1
+matplotlib==3.11.1
+joblib
+pypdf

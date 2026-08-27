@@ -1,0 +1,1 @@
+{"pcmci_anom": {"graa_mean": 0.6285714285714286, "proprank_mean": 0.5342857142857144, "cliffs_delta": 0.094, "n_windows": 350}, "true": {"graa_mean": 0.6085714285714285, "proprank_mean": 0.62, "cliffs_delta": -0.011, "n_windows": 350}}

@@ -1,0 +1,232 @@
+{
+ "lomo": {
+  "full": {
+   "model": 0.9877450980392156,
+   "val_baseline": 1.0
+  },
+  "lite": {
+   "model": 0.9877450980392156,
+   "val_baseline": 1.0
+  }
+ },
+ "swat_edges": {
+  "n": 152,
+  "n_pos": 5,
+  "auc_learned": 0.4918367346938775,
+  "auc_val": 0.7414965986394558
+ },
+ "downstream": {
+  "swat/silver": {
+   "learned": 0.6208333333333333,
+   "val": 0.6208333333333333
+  },
+  "swat/pcmci": {
+   "learned": 0.6083333333333333,
+   "val": 0.6041666666666666
+  },
+  "te/te_idv1_b0": {
+   "learned": 0.7142857142857143,
+   "val": 0.7142857142857143
+  },
+  "te/te_idv1_b1": {
+   "learned": 0.7142857142857143,
+   "val": 0.7142857142857143
+  },
+  "te/te_idv4_b0": {
+   "learned": 0.023809523809523808,
+   "val": 0.023809523809523808
+  },
+  "te/te_idv4_b1": {
+   "learned": 0.023809523809523808,
+   "val": 0.023809523809523808
+  },
+  "te/te_idv11_b0": {
+   "learned": 0.0,
+   "val": 0.0
+  },
+  "te/te_idv11_b1": {
+   "learned": 0.0,
+   "val": 0.0
+  },
+  "rcaeval/ob_adservice_cpu_r1": {
+   "learned_clean": 0.37142857142857144,
+   "val_clean": 0.9428571428571428,
+   "learned_anom": 1.0,
+   "val_anom": 1.0
+  },
+  "rcaeval/ob_adservice_cpu_r2": {
+   "learned_clean": 0.9571428571428572,
+   "val_clean": 0.9571428571428572,
+   "learned_anom": 0.9571428571428572,
+   "val_anom": 0.9571428571428572
+  },
+  "rcaeval/ob_adservice_cpu_r3": {
+   "learned_clean": 1.0,
+   "val_clean": 1.0,
+   "learned_anom": 1.0,
+   "val_anom": 1.0
+  },
+  "rcaeval/ob_adservice_mem_r1": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.0,
+   "val_anom": 0.0
+  },
+  "rcaeval/ob_adservice_mem_r2": {
+   "learned_clean": 1.0,
+   "val_clean": 0.9714285714285714,
+   "learned_anom": 0.5142857142857142,
+   "val_anom": 0.5142857142857142
+  },
+  "rcaeval/ob_adservice_mem_r3": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.0,
+   "val_anom": 0.0
+  },
+  "rcaeval/ob_cartservice_cpu_r1": {
+   "learned_clean": 0.9,
+   "val_clean": 0.9,
+   "learned_anom": 0.9,
+   "val_anom": 0.9
+  },
+  "rcaeval/ob_cartservice_cpu_r2": {
+   "learned_clean": 1.0,
+   "val_clean": 1.0,
+   "learned_anom": 0.45714285714285713,
+   "val_anom": 0.9142857142857143
+  },
+  "rcaeval/ob_cartservice_cpu_r3": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.22857142857142856,
+   "val_anom": 0.0
+  },
+  "rcaeval/ob_cartservice_mem_r1": {
+   "learned_clean": 0.7285714285714285,
+   "val_clean": 0.5714285714285714,
+   "learned_anom": 0.5714285714285714,
+   "val_anom": 0.5714285714285714
+  },
+  "rcaeval/ob_cartservice_mem_r2": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.0,
+   "val_anom": 0.0
+  },
+  "rcaeval/ob_cartservice_mem_r3": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.0,
+   "val_anom": 0.0
+  },
+  "rcaeval/ob_checkoutservice_cpu_r1": {
+   "learned_clean": 1.0,
+   "val_clean": 1.0,
+   "learned_anom": 1.0,
+   "val_anom": 1.0
+  },
+  "rcaeval/ob_checkoutservice_cpu_r2": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.0,
+   "val_anom": 0.0
+  },
+  "rcaeval/ob_checkoutservice_cpu_r3": {
+   "learned_clean": 1.0,
+   "val_clean": 0.9714285714285714,
+   "learned_anom": 0.9714285714285714,
+   "val_anom": 0.9714285714285714
+  },
+  "rcaeval/ob_checkoutservice_mem_r1": {
+   "learned_clean": 0.5428571428571428,
+   "val_clean": 0.9571428571428572,
+   "learned_anom": 1.0,
+   "val_anom": 1.0
+  },
+  "rcaeval/ob_checkoutservice_mem_r2": {
+   "learned_clean": 0.15714285714285714,
+   "val_clean": 0.15714285714285714,
+   "learned_anom": 0.0,
+   "val_anom": 0.9714285714285714
+  },
+  "rcaeval/ob_checkoutservice_mem_r3": {
+   "learned_clean": 1.0,
+   "val_clean": 1.0,
+   "learned_anom": 1.0,
+   "val_anom": 1.0
+  },
+  "rcaeval/ob_currencyservice_cpu_r1": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.07142857142857142,
+   "val_anom": 0.0
+  },
+  "rcaeval/ob_currencyservice_cpu_r2": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.0,
+   "val_anom": 0.0
+  },
+  "rcaeval/ob_currencyservice_cpu_r3": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.0,
+   "val_anom": 0.0
+  },
+  "rcaeval/ob_currencyservice_mem_r1": {
+   "learned_clean": 1.0,
+   "val_clean": 1.0,
+   "learned_anom": 1.0,
+   "val_anom": 1.0
+  },
+  "rcaeval/ob_currencyservice_mem_r2": {
+   "learned_clean": 0.9857142857142858,
+   "val_clean": 0.0,
+   "learned_anom": 0.9857142857142858,
+   "val_anom": 0.9857142857142858
+  },
+  "rcaeval/ob_currencyservice_mem_r3": {
+   "learned_clean": 0.9714285714285714,
+   "val_clean": 0.4,
+   "learned_anom": 0.4,
+   "val_anom": 0.4
+  },
+  "rcaeval/ob_productcatalogservice_cpu_r1": {
+   "learned_clean": 1.0,
+   "val_clean": 1.0,
+   "learned_anom": 1.0,
+   "val_anom": 1.0
+  },
+  "rcaeval/ob_productcatalogservice_cpu_r2": {
+   "learned_clean": 0.9857142857142858,
+   "val_clean": 0.9857142857142858,
+   "learned_anom": 0.9857142857142858,
+   "val_anom": 0.7428571428571429
+  },
+  "rcaeval/ob_productcatalogservice_cpu_r3": {
+   "learned_clean": 0.9857142857142858,
+   "val_clean": 0.9857142857142858,
+   "learned_anom": 0.9857142857142858,
+   "val_anom": 0.9857142857142858
+  },
+  "rcaeval/ob_productcatalogservice_mem_r1": {
+   "learned_clean": 0.02857142857142857,
+   "val_clean": 0.9857142857142858,
+   "learned_anom": 0.02857142857142857,
+   "val_anom": 0.1
+  },
+  "rcaeval/ob_productcatalogservice_mem_r2": {
+   "learned_clean": 1.0,
+   "val_clean": 1.0,
+   "learned_anom": 1.0,
+   "val_anom": 0.9714285714285714
+  },
+  "rcaeval/ob_productcatalogservice_mem_r3": {
+   "learned_clean": 0.0,
+   "val_clean": 0.0,
+   "learned_anom": 0.35714285714285715,
+   "val_anom": 0.35714285714285715
+  }
+ }
+}

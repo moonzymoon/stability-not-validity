@@ -1,0 +1,1 @@
+{"PropRank": {"envelope_violation": 0.6714285714285714, "certified_flip_rate": null, "uncertified_flip_rate": 0.9971428571428571, "n_certified": 0, "n_uncertified": 350}, "DPTA-G": {"envelope_violation": 0.64, "certified_flip_rate": 0.029411764705882353, "uncertified_flip_rate": 0.4620253164556962, "n_certified": 34, "n_uncertified": 316}}
