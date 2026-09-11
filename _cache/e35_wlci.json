@@ -1,0 +1,30 @@
+{
+ "scm": {
+  "DPTA-G|true": ".494,.550",
+  "DPTA-G|PCMCI-clean": ".501,.561",
+  "DPTA-G|PCMCI-anom": ".517,.576",
+  "PropRank|true": ".590,.649",
+  "PropRank|PCMCI-clean": ".507,.567",
+  "PropRank|PCMCI-anom": ".504,.563",
+  "GraphGranger|true": ".352,.410",
+  "GraphGranger|PCMCI-clean": ".348,.403",
+  "GraphGranger|PCMCI-anom": ".347,.403",
+  "GlobalCF|none": ".427,.485",
+  "AERec|none": ".388,.447",
+  "Grad|none": ".551,.649",
+  "zDev|none": ".504,.560",
+  "CondAttr|none": ".416,.476",
+  "Random|none": ".246,.302"
+ },
+ "te": {
+  "DPTA-G|PCMCI": ".128,.175",
+  "PropRank|PCMCI": ".216,.253",
+  "GraphGranger|PCMCI": ".000,.000",
+  "GlobalCF|none": ".044,.075",
+  "AERec|none": ".208,.251",
+  "Grad|none": ".139,.214",
+  "zDev|none": ".229,.270",
+  "CondAttr|none": ".050,.085",
+  "Random|none": ".013,.034"
+ }
+}

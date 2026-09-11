@@ -1,0 +1,37 @@
+{
+ "ss_carts_cpu_r1": {
+  "service": "carts",
+  "fault": "cpu",
+  "hit3": 0.0,
+  "n_windows": 11,
+  "wall_s": 40.7
+ },
+ "ss_catalogue_cpu_r1": {
+  "service": "catalogue",
+  "fault": "cpu",
+  "hit3": 0.0303030303030303,
+  "n_windows": 11,
+  "wall_s": 34.6
+ },
+ "ss_orders_cpu_r1": {
+  "service": "orders",
+  "fault": "cpu",
+  "hit3": 0.0,
+  "n_windows": 11,
+  "wall_s": 54.7
+ },
+ "ss_payment_cpu_r1": {
+  "service": "payment",
+  "fault": "cpu",
+  "hit3": 0.0,
+  "n_windows": 11,
+  "wall_s": 23.8
+ },
+ "ss_user_cpu_r1": {
+  "service": "user",
+  "fault": "cpu",
+  "hit3": 0.33333333333333337,
+  "n_windows": 11,
+  "wall_s": 82.3
+ }
+}

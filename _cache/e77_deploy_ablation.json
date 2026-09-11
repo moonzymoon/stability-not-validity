@@ -1,0 +1,24 @@
+{
+ "full": {
+  "auroc": 0.749,
+  "n_folds": 10
+ },
+ "drop_graph": {
+  "auroc": 0.742
+ },
+ "drop_consistency": {
+  "auroc": 0.747
+ },
+ "drop_attribution": {
+  "auroc": 0.68
+ },
+ "drop_scorer": {
+  "auroc": 0.74
+ },
+ "drop_data": {
+  "auroc": 0.674
+ },
+ "only_consistency": {
+  "auroc": 0.531
+ }
+}

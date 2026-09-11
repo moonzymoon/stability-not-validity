@@ -1,0 +1,112 @@
+[
+ {
+  "seed": 0,
+  "method": "DPTA-G",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ },
+ {
+  "seed": 0,
+  "method": "PropRank",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ },
+ {
+  "seed": 1,
+  "method": "DPTA-G",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ },
+ {
+  "seed": 1,
+  "method": "PropRank",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ },
+ {
+  "seed": 2,
+  "method": "DPTA-G",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ },
+ {
+  "seed": 2,
+  "method": "PropRank",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ },
+ {
+  "seed": 3,
+  "method": "DPTA-G",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ },
+ {
+  "seed": 3,
+  "method": "PropRank",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ },
+ {
+  "seed": 4,
+  "method": "DPTA-G",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ },
+ {
+  "seed": 4,
+  "method": "PropRank",
+  "zero_exact": 0.0,
+  "zero_1e6": 0.0,
+  "zero_1e3": 0.0,
+  "spearman_zerofrac_acr": [
+   NaN,
+   NaN
+  ]
+ }
+]

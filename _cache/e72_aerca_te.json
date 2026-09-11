@@ -1,0 +1,38 @@
+{
+ "te_idv1_b0": {
+  "fault": "idv1",
+  "hit3": 0.026666666666666665,
+  "n_windows": 50,
+  "wall_s": 120.5
+ },
+ "te_idv1_b1": {
+  "fault": "idv1",
+  "hit3": 0.013333333333333332,
+  "n_windows": 50,
+  "wall_s": 114.3
+ },
+ "te_idv4_b0": {
+  "fault": "idv4",
+  "hit3": 0.02,
+  "n_windows": 50,
+  "wall_s": 119.5
+ },
+ "te_idv4_b1": {
+  "fault": "idv4",
+  "hit3": 0.006666666666666666,
+  "n_windows": 50,
+  "wall_s": 116.8
+ },
+ "te_idv11_b0": {
+  "fault": "idv11",
+  "hit3": 0.006666666666666666,
+  "n_windows": 50,
+  "wall_s": 120.7
+ },
+ "te_idv11_b1": {
+  "fault": "idv11",
+  "hit3": 0.006666666666666666,
+  "n_windows": 50,
+  "wall_s": 118.8
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "n_trigger": 179,
+ "n_total": 17400,
+ "trigger_rate": 0.01028735632183908,
+ "wrong_given_trigger": 0.6983240223463687,
+ "wrong_given_rest": 0.656001393647291,
+ "lift": 1.0645160652232288,
+ "base_wrong": 0.6564367816091954
+}

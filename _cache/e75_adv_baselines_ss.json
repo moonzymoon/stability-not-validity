@@ -1,0 +1,62 @@
+[
+ {
+  "unit": "ss_carts_cpu_r1",
+  "method": "PropRank",
+  "degree_top": 0.9722222222222222,
+  "val_top": 1.0
+ },
+ {
+  "unit": "ss_carts_cpu_r1",
+  "method": "DPTA-G",
+  "degree_top": 1.0,
+  "val_top": 1.0
+ },
+ {
+  "unit": "ss_catalogue_cpu_r1",
+  "method": "PropRank",
+  "degree_top": 1.0,
+  "val_top": 1.0
+ },
+ {
+  "unit": "ss_catalogue_cpu_r1",
+  "method": "DPTA-G",
+  "degree_top": 1.0,
+  "val_top": 1.0
+ },
+ {
+  "unit": "ss_orders_cpu_r1",
+  "method": "PropRank",
+  "degree_top": 1.0,
+  "val_top": 1.0
+ },
+ {
+  "unit": "ss_orders_cpu_r1",
+  "method": "DPTA-G",
+  "degree_top": 1.0,
+  "val_top": 1.0
+ },
+ {
+  "unit": "ss_payment_cpu_r1",
+  "method": "PropRank",
+  "degree_top": 1.0,
+  "val_top": 1.0
+ },
+ {
+  "unit": "ss_payment_cpu_r1",
+  "method": "DPTA-G",
+  "degree_top": 1.0,
+  "val_top": 1.0
+ },
+ {
+  "unit": "ss_user_cpu_r1",
+  "method": "PropRank",
+  "degree_top": 1.0,
+  "val_top": 1.0
+ },
+ {
+  "unit": "ss_user_cpu_r1",
+  "method": "DPTA-G",
+  "degree_top": 1.0,
+  "val_top": 1.0
+ }
+]

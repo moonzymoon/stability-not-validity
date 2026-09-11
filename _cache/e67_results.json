@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "script": "e67_predictor_ss",
+  "rows_ss": 8640,
+  "rows_obh": 11900,
+  "wall_s": 135.4
+ },
+ "results": [
+  {
+   "protocol": "SS_LODO_service",
+   "held": "carts",
+   "auroc": 0.8498253583275162,
+   "n_test": 1800
+  },
+  {
+   "protocol": "SS_LODO_service",
+   "held": "catalogue",
+   "auroc": 0.8499646235305717,
+   "n_test": 1680
+  },
+  {
+   "protocol": "SS_LODO_service",
+   "held": "orders",
+   "auroc": 0.8130774456521739,
+   "n_test": 1800
+  },
+  {
+   "protocol": "SS_LODO_service",
+   "held": "payment",
+   "auroc": 0.8562084741150593,
+   "n_test": 1680
+  },
+  {
+   "protocol": "SS_LODO_service",
+   "held": "user",
+   "auroc": 0.8345522583633493,
+   "n_test": 1680
+  },
+  {
+   "protocol": "SS_pooled_GroupKFold5",
+   "auroc": 0.8531537742927506,
+   "auroc_per_fold": [
+    0.9392304275790483,
+    0.8408301892383059,
+    0.8678464730525683,
+    0.8278616951305254,
+    0.790000086463305
+   ]
+  },
+  {
+   "protocol": "zero-shot SS->OBh",
+   "auroc": 0.8516135413356845
+  },
+  {
+   "protocol": "zero-shot OBh->SS",
+   "auroc": 0.7639663496091983
+  },
+  {
+   "protocol": "recal OBh+200SS->SS",
+   "n_cal_units": 2,
+   "auroc": 0.7524835648282782,
+   "n_test": 8400
+  }
+ ]
+}

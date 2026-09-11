@@ -1,0 +1,56 @@
+[
+ {
+  "graph": "pcmci_clean",
+  "comparison": "GRAA-PropRank",
+  "n": 72,
+  "mean_diff": 0.08680555555555555,
+  "mean_a": 0.5173611111111112,
+  "mean_b": 0.4305555555555556,
+  "p": 0.011
+ },
+ {
+  "graph": "pcmci_clean",
+  "comparison": "GRAA-DPTAG",
+  "n": 72,
+  "mean_diff": -0.16550925925925927,
+  "mean_a": 0.5173611111111112,
+  "mean_b": 0.6828703703703705,
+  "p": 0.0
+ },
+ {
+  "graph": "pcmci_clean",
+  "comparison": "DPTAG-PropRank",
+  "n": 72,
+  "mean_diff": 0.25231481481481477,
+  "mean_a": 0.6828703703703705,
+  "mean_b": 0.4305555555555556,
+  "p": 0.0
+ },
+ {
+  "graph": "pcmci_anom",
+  "comparison": "GRAA-PropRank",
+  "n": 72,
+  "mean_diff": 0.052083333333333336,
+  "mean_a": 0.5335648148148148,
+  "mean_b": 0.48148148148148157,
+  "p": 0.0001
+ },
+ {
+  "graph": "pcmci_anom",
+  "comparison": "GRAA-DPTAG",
+  "n": 72,
+  "mean_diff": -0.17708333333333334,
+  "mean_a": 0.5335648148148148,
+  "mean_b": 0.7106481481481483,
+  "p": 0.0
+ },
+ {
+  "graph": "pcmci_anom",
+  "comparison": "DPTAG-PropRank",
+  "n": 72,
+  "mean_diff": 0.22916666666666666,
+  "mean_a": 0.7106481481481483,
+  "mean_b": 0.48148148148148157,
+  "p": 0.0
+ }
+]

@@ -1,0 +1,1 @@
+[{"alpha": 0.3, "mean_risk": 0.48328701934074747, "mean_coverage": 0.4323081395348837, "risk_violation_rate": 0.6875}, {"alpha": 0.4, "mean_risk": 0.5169834132440774, "mean_coverage": 0.5577093023255815, "risk_violation_rate": 0.5625}, {"alpha": 0.5, "mean_risk": 0.5575883448389891, "mean_coverage": 0.6576802325581395, "risk_violation_rate": 0.375}]

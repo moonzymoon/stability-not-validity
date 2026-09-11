@@ -1,0 +1,5552 @@
+[
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9946428571428572
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9898809523809524
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9785714285714286
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9672619047619049
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9684523809523808
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9476190476190476
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9904761904761905
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9738095238095239
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9964285714285714
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9797619047619048
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9785714285714286
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9696428571428573
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9666666666666666
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9327380952380953
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9791666666666667
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9619047619047618
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6428571428571429,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.9892857142857143
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.9875
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.9821428571428572
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.9654761904761906
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.9732142857142858
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.9589285714285714
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.9875
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.9785714285714286
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.6857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.6857142857142857,
+  "acr3_base": 0.8892857142857142
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6857142857142857,
+  "acr3_base": 0.8571428571428571
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.6857142857142857,
+  "acr3_base": 0.7607142857142857
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6857142857142857,
+  "acr3_base": 0.6178571428571427
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6857142857142857,
+  "acr3_base": 0.6035714285714285
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6857142857142857,
+  "acr3_base": 0.6125
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6857142857142857,
+  "acr3_base": 0.8898809523809523
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6857142857142857,
+  "acr3_base": 0.7416666666666666
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.8970238095238094
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.8041666666666667
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.7470238095238094
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.5666666666666667
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.6946428571428571
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.600595238095238
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.8666666666666666
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.5970238095238094
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5285714285714286,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.9130952380952381
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.8160714285714286
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.7851190476190475
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.6708333333333332
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.669642857142857
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.6660714285714284
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.8642857142857143
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.7583333333333333
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.3142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.8595238095238094
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.7619047619047619
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.7029761904761904
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.5738095238095238
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.9327380952380953
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.8922619047619047
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.9375
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.7422619047619047
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.8791666666666667
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.788095238095238
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.7089285714285714
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.563095238095238
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.9369047619047619
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.894047619047619
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.9422619047619047
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.7333333333333333
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.3142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.7934523809523809
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.7416666666666665
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.7220238095238094
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.5595238095238093
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.9559523809523809
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.9452380952380952
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.8660714285714284
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.7559523809523809
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.8607142857142855
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.7220238095238094
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.8375
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.8154761904761905
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8577380952380952
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.6755952380952379
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8577380952380952
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8333333333333333
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.8797619047619047
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.7303571428571427
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.9321428571428572
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.9232142857142858
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.8363095238095237
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.6488095238095237
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.24285714285714285,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.24285714285714285,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.24285714285714285,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.24285714285714285,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.24285714285714285,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8154761904761905
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.657142857142857
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.7666666666666666
+ },
+ {
+  "dataset": "ae_scm0",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.7547619047619047
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9952380952380953
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9892857142857143
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9833333333333334
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9654761904761906
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9678571428571427
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9398809523809524
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9845238095238095
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9583333333333333
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9898809523809524
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9863095238095239
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9755952380952382
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9595238095238094
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9446428571428571
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9208333333333334
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9833333333333334
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6285714285714286,
+  "acr3_base": 0.9446428571428571
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6714285714285714,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6714285714285714,
+  "acr3_base": 0.980952380952381
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6714285714285714,
+  "acr3_base": 0.969642857142857
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6714285714285714,
+  "acr3_base": 0.9517857142857142
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6714285714285714,
+  "acr3_base": 0.9303571428571429
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6714285714285714,
+  "acr3_base": 0.9636904761904762
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6714285714285714,
+  "acr3_base": 0.9315476190476191
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6714285714285714,
+  "acr3_base": 0.9726190476190477
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6714285714285714,
+  "acr3_base": 0.9386904761904762
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.6142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.8595238095238095
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.8267857142857142
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.7374999999999998
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.5613095238095237
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.7232142857142856
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.6833333333333332
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.9333333333333333
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.7380952380952379
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.8672619047619047
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.7934523809523808
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.7035714285714284
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.5023809523809524
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.6922619047619046
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.6113095238095236
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.8065476190476188
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5857142857142857,
+  "acr3_base": 0.6375
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6571428571428571,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6571428571428571,
+  "acr3_base": 0.8898809523809523
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6571428571428571,
+  "acr3_base": 0.8392857142857142
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6571428571428571,
+  "acr3_base": 0.7910714285714285
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6571428571428571,
+  "acr3_base": 0.644047619047619
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6571428571428571,
+  "acr3_base": 0.7601190476190475
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6571428571428571,
+  "acr3_base": 0.6857142857142856
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6571428571428571,
+  "acr3_base": 0.868452380952381
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6571428571428571,
+  "acr3_base": 0.7327380952380951
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.8398809523809523
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.7779761904761904
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.6851190476190476
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.6154761904761903
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9029761904761904
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.868452380952381
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9517857142857142
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.7589285714285713
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.8154761904761904
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.7803571428571427
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.6452380952380952
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.6154761904761905
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.9059523809523808
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.8726190476190476
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.8708333333333332
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.6922619047619047
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.32857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.9238095238095239
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.7702380952380952
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.7172619047619047
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.5982142857142856
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.9291666666666667
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.888095238095238
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.8452380952380951
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.32857142857142857,
+  "acr3_base": 0.7
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.5714285714285714,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.8857142857142857
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.7559523809523809
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.851190476190476
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.8160714285714284
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.8958333333333333
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.7720238095238094
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.8922619047619047
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.8660714285714286
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9035714285714285
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.7785714285714285
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9232142857142857
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9065476190476189
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.8416666666666666
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.6714285714285713
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.2571428571428571,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.2571428571428571,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.2571428571428571,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.2571428571428571,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.2571428571428571,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.8565476190476189
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.6952380952380951
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.8041666666666666
+ },
+ {
+  "dataset": "ae_scm1",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.6142857142857143,
+  "acr3_base": 0.7702380952380952
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9726190476190477
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.963095238095238
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9607142857142857
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.924404761904762
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9434523809523809
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9053571428571427
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9696428571428573
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9047619047619047
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.38571428571428573,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.976190476190476
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.9684523809523808
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.9666666666666666
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.9285714285714285
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.9291666666666667
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.881547619047619
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.9619047619047619
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.9107142857142857
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.37142857142857144,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.9863095238095239
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.9583333333333335
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.9595238095238094
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.9238095238095236
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.9375
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.8857142857142857
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.9476190476190476
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.9345238095238095
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.42857142857142855,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8934523809523809
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.7369047619047617
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.6720238095238095
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.5452380952380952
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.775595238095238
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.6922619047619047
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.9017857142857142
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.6434523809523809
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.8541666666666666
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.7589285714285713
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.6553571428571427
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.5369047619047618
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.6464285714285714
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.620238095238095
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.7511904761904762
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.5654761904761904
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4,
+  "acr3_base": 0.8827380952380952
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4,
+  "acr3_base": 0.7452380952380953
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4,
+  "acr3_base": 0.5583333333333332
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4,
+  "acr3_base": 0.5517857142857142
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4,
+  "acr3_base": 0.6839285714285713
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4,
+  "acr3_base": 0.6404761904761903
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4,
+  "acr3_base": 0.8023809523809522
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4,
+  "acr3_base": 0.5434523809523809
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.37142857142857144,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.8589285714285713
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.7208333333333332
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.6059523809523809
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.5184523809523809
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.925
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.8779761904761905
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.856547619047619
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.6946428571428571
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.35714285714285715,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.844642857142857
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.6886904761904761
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.6428571428571427
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.5083333333333333
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9339285714285713
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.9059523809523808
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.8125
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.35714285714285715,
+  "acr3_base": 0.7077380952380952
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.34285714285714286,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.8142857142857143
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.7428571428571429
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.6928571428571427
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.5166666666666666
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.9386904761904762
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.9041666666666666
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.7714285714285714
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.5892857142857142
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.888095238095238
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.7101190476190475
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.8482142857142857
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.8202380952380952
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.8678571428571429
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.732142857142857
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.8773809523809524
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.8428571428571427
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.8934523809523809
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.7541666666666664
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.9327380952380953
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.3142857142857143,
+  "acr3_base": 0.913095238095238
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.7964285714285713
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.6119047619047617
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.8119047619047619
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.6809523809523808
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.775595238095238
+ },
+ {
+  "dataset": "ae_scm2",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.37142857142857144,
+  "acr3_base": 0.7345238095238094
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.5285714285714286,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.9904761904761905
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.9875
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.9827380952380953
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.9803571428571429
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.974404761904762
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.9523809523809526
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.9922619047619048
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.5285714285714286,
+  "acr3_base": 0.9779761904761904
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5428571428571428,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9940476190476191
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9904761904761905
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9857142857142858
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9803571428571429
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9732142857142858
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9595238095238097
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9875
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9714285714285715
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5428571428571428,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9910714285714286
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9827380952380953
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9880952380952381
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9821428571428572
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9773809523809524
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9672619047619049
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.9851190476190477
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.969047619047619
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.7285714285714285,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.7285714285714285,
+  "acr3_base": 0.9410714285714286
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.7285714285714285,
+  "acr3_base": 0.9023809523809523
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.7285714285714285,
+  "acr3_base": 0.8797619047619047
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.7285714285714285,
+  "acr3_base": 0.6886904761904762
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.7285714285714285,
+  "acr3_base": 0.6226190476190475
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.7285714285714285,
+  "acr3_base": 0.6047619047619046
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.7285714285714285,
+  "acr3_base": 0.8172619047619047
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.7285714285714285,
+  "acr3_base": 0.645238095238095
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5,
+  "acr3_base": 0.8654761904761905
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5,
+  "acr3_base": 0.7404761904761904
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5,
+  "acr3_base": 0.676190476190476
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5,
+  "acr3_base": 0.6684523809523809
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5,
+  "acr3_base": 0.6339285714285713
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5,
+  "acr3_base": 0.5315476190476189
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5,
+  "acr3_base": 0.8160714285714286
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5,
+  "acr3_base": 0.6291666666666665
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4857142857142857,
+  "acr3_base": 0.8809523809523809
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4857142857142857,
+  "acr3_base": 0.7232142857142856
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4857142857142857,
+  "acr3_base": 0.6363095238095238
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4857142857142857,
+  "acr3_base": 0.5392857142857141
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4857142857142857,
+  "acr3_base": 0.6422619047619046
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4857142857142857,
+  "acr3_base": 0.6357142857142855
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4857142857142857,
+  "acr3_base": 0.825595238095238
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.4857142857142857,
+  "acr3_base": 0.6285714285714286
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.5714285714285714,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.8291666666666666
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.8369047619047618
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.6749999999999998
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.6934523809523809
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.9714285714285715
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.9446428571428571
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.9380952380952381
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.7767857142857142
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5714285714285714,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.8803571428571427
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.825595238095238
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.700595238095238
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.5845238095238094
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.9672619047619048
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.9547619047619048
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.9136904761904762
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.5714285714285714,
+  "acr3_base": 0.8357142857142856
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.8619047619047618
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.7785714285714285
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.7202380952380951
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.5999999999999999
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.9696428571428573
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.9386904761904762
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.9023809523809523
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.8
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8589285714285713
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.6988095238095238
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8160714285714286
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8059523809523809
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.38571428571428573,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.8357142857142856
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.6809523809523809
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.8398809523809523
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.38571428571428573,
+  "acr3_base": 0.8154761904761902
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.8559523809523809
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.7011904761904761
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.9059523809523808
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.44285714285714284,
+  "acr3_base": 0.8803571428571428
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.8160714285714284
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 0.620238095238095
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.5428571428571428,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.3,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.8095238095238095
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.6434523809523809
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.7744047619047618
+ },
+ {
+  "dataset": "ae_scm3",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.7434523809523808
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.4714285714285714,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9892857142857143
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9803571428571428
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9738095238095237
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9648809523809525
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9607142857142857
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9345238095238095
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9880952380952381
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9625000000000001
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4714285714285714,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9922619047619048
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9803571428571429
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9803571428571429
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9636904761904761
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9619047619047618
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9404761904761905
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.9952380952380953
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.4714285714285714,
+  "acr3_base": 0.980952380952381
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5,
+  "acr3_base": 0.9910714285714286
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5,
+  "acr3_base": 0.9857142857142858
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5,
+  "acr3_base": 0.9738095238095239
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5,
+  "acr3_base": 0.9517857142857143
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5,
+  "acr3_base": 0.9470238095238096
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5,
+  "acr3_base": 0.9327380952380953
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5,
+  "acr3_base": 0.9845238095238096
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "DPTA-G",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.5,
+  "acr3_base": 0.9666666666666667
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.6428571428571429,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.9011904761904761
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.8011904761904761
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.6946428571428571
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.6386904761904761
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.6351190476190476
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.5678571428571428
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.8589285714285713
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.6428571428571429,
+  "acr3_base": 0.6190476190476191
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6,
+  "acr3_base": 0.9220238095238095
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6,
+  "acr3_base": 0.8559523809523808
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6,
+  "acr3_base": 0.7410714285714285
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6,
+  "acr3_base": 0.6726190476190476
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6,
+  "acr3_base": 0.6238095238095238
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6,
+  "acr3_base": 0.5583333333333332
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6,
+  "acr3_base": 0.8339285714285714
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.6,
+  "acr3_base": 0.799404761904762
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.8791666666666667
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.807142857142857
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.7732142857142856
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.5767857142857142
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.632142857142857
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.5547619047619048
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.7517857142857143
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "PropRank",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.6,
+  "acr3_base": 0.6196428571428569
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "true",
+  "hit3": 0.2857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "true",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.8392857142857142
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.8160714285714284
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "true",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.7958333333333332
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.5696428571428571
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.9535714285714285
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.9351190476190476
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "true",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.9904761904761905
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "true",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.8839285714285714
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.2857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.8946428571428571
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.8220238095238095
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.7226190476190475
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.6124999999999999
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.9636904761904762
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.9410714285714286
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.9351190476190476
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_clean",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.8642857142857142
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.2857142857142857,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.1,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.8803571428571428
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.8470238095238094
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.3,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.7654761904761904
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "del",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.5791666666666666
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.9589285714285714
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "add",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.9315476190476191
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.2,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.8119047619047618
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GraphGranger",
+  "family": "rew",
+  "strength": 0.5,
+  "graph_source": "pcmci_anom",
+  "hit3": 0.2857142857142857,
+  "acr3_base": 0.7547619047619047
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8613095238095237
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.7208333333333332
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.825595238095238
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "GlobalCF",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.42857142857142855,
+  "acr3_base": 0.8184523809523809
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.8577380952380952
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.6874999999999999
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.8488095238095237
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "AERec",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.34285714285714286,
+  "acr3_base": 0.8321428571428571
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.868452380952381
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.7303571428571427
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.9101190476190475
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Grad",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.4142857142857143,
+  "acr3_base": 0.8916666666666666
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": 0.805952380952381
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": 0.6130952380952381
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "zDev",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.2714285714285714,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.2714285714285714,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.2714285714285714,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.2714285714285714,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "Random",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.2714285714285714,
+  "acr3_base": 1.0
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "none",
+  "strength": 0.0,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": null
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.2,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": 0.8273809523809523
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "noise",
+  "strength": 0.5,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": 0.663095238095238
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 1.0,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": 0.7726190476190475
+ },
+ {
+  "dataset": "ae_scm4",
+  "scorer": "ae",
+  "method": "CondAttr",
+  "family": "slice",
+  "strength": 3.0,
+  "graph_source": "none",
+  "hit3": 0.45714285714285713,
+  "acr3_base": 0.7529761904761905
+ }
+]

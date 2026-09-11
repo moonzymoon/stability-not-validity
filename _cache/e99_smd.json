@@ -1,0 +1,101 @@
+{
+ "meta": [
+  {
+   "machine": "machine-1-1",
+   "d": 30,
+   "n_win": 28,
+   "roots_mean": 13.857142857142858,
+   "det_auroc": 0.96625,
+   "graph_edges": 450
+  },
+  {
+   "machine": "machine-1-4",
+   "d": 34,
+   "n_win": 8,
+   "roots_mean": 6.5,
+   "det_auroc": 0.94375,
+   "graph_edges": 254
+  },
+  {
+   "machine": "machine-1-7",
+   "d": 34,
+   "n_win": 27,
+   "roots_mean": 10.481481481481481,
+   "det_auroc": 0.8642592592592593,
+   "graph_edges": 362
+  },
+  {
+   "machine": "machine-2-2",
+   "d": 31,
+   "n_win": 29,
+   "roots_mean": 3.8620689655172415,
+   "det_auroc": 0.8329310344827586,
+   "graph_edges": 274
+  },
+  {
+   "machine": "machine-2-5",
+   "d": 31,
+   "n_win": 10,
+   "roots_mean": 7.9,
+   "det_auroc": 0.9035,
+   "graph_edges": 300
+  },
+  {
+   "machine": "machine-2-8",
+   "d": 31,
+   "n_win": 2,
+   "roots_mean": 31.0,
+   "det_auroc": 0.9974999999999999,
+   "graph_edges": 462
+  },
+  {
+   "machine": "machine-3-1",
+   "d": 30,
+   "n_win": 5,
+   "roots_mean": 9.2,
+   "det_auroc": 0.94,
+   "graph_edges": 374
+  },
+  {
+   "machine": "machine-3-6",
+   "d": 30,
+   "n_win": 14,
+   "roots_mean": 7.357142857142857,
+   "det_auroc": 0.9939285714285715,
+   "graph_edges": 652
+  }
+ ],
+ "methods": {
+  "PropRank": {
+   "hit3": 0.7073170731707317,
+   "acr3": 0.8306233062330624,
+   "sw": 0.2601626016260163
+  },
+  "DPTA-G": {
+   "hit3": 0.6585365853658537,
+   "acr3": 0.90210027100271,
+   "sw": 0.3008130081300813
+  },
+  "zDev": {
+   "hit3": 0.6666666666666666,
+   "acr3": 1.0,
+   "sw": 0.3333333333333333
+  },
+  "AERec": {
+   "hit3": 0.6585365853658537,
+   "acr3": 0.9762872628726288,
+   "sw": 0.3333333333333333
+  },
+  "GlobalCF": {
+   "hit3": 0.6585365853658537,
+   "acr3": 0.8221544715447153,
+   "sw": 0.13008130081300814
+  },
+  "Random": {
+   "hit3": 0.5203252032520326,
+   "acr3": 1.0,
+   "sw": 0.4796747967479675
+  }
+ },
+ "total_windows": 123
+}

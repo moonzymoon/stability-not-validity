@@ -1,0 +1,722 @@
+[
+ {
+  "seed": 0,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.1,
+  "coverage": 0.186,
+  "cert_wrong": 0.308
+ },
+ {
+  "seed": 0,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.971,
+  "coverage": 0.614,
+  "cert_wrong": 0.279
+ },
+ {
+  "seed": 0,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.014,
+  "coverage": 0.143,
+  "cert_wrong": 0.2
+ },
+ {
+  "seed": 0,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 0.971,
+  "coverage": 0.586,
+  "cert_wrong": 0.244
+ },
+ {
+  "seed": 0,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.114,
+  "cert_wrong": 0.125
+ },
+ {
+  "seed": 0,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 0.914,
+  "coverage": 0.543,
+  "cert_wrong": 0.211
+ },
+ {
+  "seed": 0,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.1,
+  "cert_wrong": 0.143
+ },
+ {
+  "seed": 0,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 0.957,
+  "coverage": 0.629,
+  "cert_wrong": 0.273
+ },
+ {
+  "seed": 0,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 0,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.014,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 0,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 0,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 0.071,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 0,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 0,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 0.086,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 0,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 0,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 0.029,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.014,
+  "coverage": 0.014,
+  "cert_wrong": 1.0
+ },
+ {
+  "seed": 1,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.6,
+  "coverage": 0.186,
+  "cert_wrong": 0.308
+ },
+ {
+  "seed": 1,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 0.943,
+  "coverage": 0.371,
+  "cert_wrong": 0.269
+ },
+ {
+  "seed": 1,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 1.0,
+  "coverage": 0.386,
+  "cert_wrong": 0.259
+ },
+ {
+  "seed": 1,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 1.0,
+  "coverage": 0.429,
+  "cert_wrong": 0.3
+ },
+ {
+  "seed": 1,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 1,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 0.014,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 2,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.029,
+  "cert_wrong": 0.5
+ },
+ {
+  "seed": 2,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.743,
+  "coverage": 0.143,
+  "cert_wrong": 0.3
+ },
+ {
+  "seed": 2,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.029,
+  "cert_wrong": 0.5
+ },
+ {
+  "seed": 2,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 0.857,
+  "coverage": 0.143,
+  "cert_wrong": 0.4
+ },
+ {
+  "seed": 2,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.014,
+  "cert_wrong": 1.0
+ },
+ {
+  "seed": 2,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 0.757,
+  "coverage": 0.114,
+  "cert_wrong": 0.375
+ },
+ {
+  "seed": 2,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.014,
+  "cert_wrong": 1.0
+ },
+ {
+  "seed": 2,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 0.843,
+  "coverage": 0.1,
+  "cert_wrong": 0.429
+ },
+ {
+  "seed": 2,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 2,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 2,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 2,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 0.043,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 2,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 2,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 0.214,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 2,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 2,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 0.157,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 3,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.171,
+  "coverage": 0.243,
+  "cert_wrong": 0.529
+ },
+ {
+  "seed": 3,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.957,
+  "coverage": 0.614,
+  "cert_wrong": 0.488
+ },
+ {
+  "seed": 3,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.029,
+  "coverage": 0.129,
+  "cert_wrong": 0.444
+ },
+ {
+  "seed": 3,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 0.957,
+  "coverage": 0.629,
+  "cert_wrong": 0.5
+ },
+ {
+  "seed": 3,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.057,
+  "cert_wrong": 0.5
+ },
+ {
+  "seed": 3,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 0.971,
+  "coverage": 0.643,
+  "cert_wrong": 0.489
+ },
+ {
+  "seed": 3,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.057,
+  "cert_wrong": 0.5
+ },
+ {
+  "seed": 3,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 0.957,
+  "coverage": 0.586,
+  "cert_wrong": 0.512
+ },
+ {
+  "seed": 3,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 3,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.857,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 3,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 3,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 1.0,
+  "coverage": 0.071,
+  "cert_wrong": 0.2
+ },
+ {
+  "seed": 3,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 3,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 0.986,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 3,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 3,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 1.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 4,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.086,
+  "coverage": 0.086,
+  "cert_wrong": 0.5
+ },
+ {
+  "seed": 4,
+  "method": "DPTA-G",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.8,
+  "coverage": 0.314,
+  "cert_wrong": 0.5
+ },
+ {
+  "seed": 4,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.014,
+  "coverage": 0.071,
+  "cert_wrong": 0.6
+ },
+ {
+  "seed": 4,
+  "method": "DPTA-G",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 0.943,
+  "coverage": 0.4,
+  "cert_wrong": 0.393
+ },
+ {
+  "seed": 4,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.043,
+  "cert_wrong": 0.667
+ },
+ {
+  "seed": 4,
+  "method": "DPTA-G",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 0.914,
+  "coverage": 0.371,
+  "cert_wrong": 0.423
+ },
+ {
+  "seed": 4,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.029,
+  "cert_wrong": 1.0
+ },
+ {
+  "seed": 4,
+  "method": "DPTA-G",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 0.957,
+  "coverage": 0.429,
+  "cert_wrong": 0.467
+ },
+ {
+  "seed": 4,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 4,
+  "method": "PropRank",
+  "M": 8,
+  "rule": "emp50",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 4,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 4,
+  "method": "PropRank",
+  "M": 16,
+  "rule": "emp50",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 4,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 4,
+  "method": "PropRank",
+  "M": 32,
+  "rule": "emp50",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 4,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "worst",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ },
+ {
+  "seed": 4,
+  "method": "PropRank",
+  "M": 64,
+  "rule": "emp50",
+  "fresh_exceed": 0.0,
+  "coverage": 0.0,
+  "cert_wrong": null
+ }
+]

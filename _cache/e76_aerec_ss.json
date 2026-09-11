@@ -1,0 +1,362 @@
+[
+ {
+  "unit": "ss_carts_cpu_r1",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_cpu_r2",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_cpu_r3",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_delay_r1",
+  "fault": "delay",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_delay_r2",
+  "fault": "delay",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_delay_r3",
+  "fault": "delay",
+  "hit3": 0.5833333333333334
+ },
+ {
+  "unit": "ss_carts_disk_r1",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_disk_r2",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_disk_r3",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_loss_r1",
+  "fault": "loss",
+  "hit3": 0.3333333333333333
+ },
+ {
+  "unit": "ss_carts_loss_r2",
+  "fault": "loss",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_loss_r3",
+  "fault": "loss",
+  "hit3": 0.5
+ },
+ {
+  "unit": "ss_carts_mem_r1",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_mem_r2",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_carts_mem_r3",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_cpu_r1",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_cpu_r2",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_cpu_r3",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_delay_r1",
+  "fault": "delay",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_delay_r2",
+  "fault": "delay",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_delay_r3",
+  "fault": "delay",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_disk_r1",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_disk_r2",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_loss_r1",
+  "fault": "loss",
+  "hit3": 0.8333333333333334
+ },
+ {
+  "unit": "ss_catalogue_loss_r2",
+  "fault": "loss",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_loss_r3",
+  "fault": "loss",
+  "hit3": 0.5
+ },
+ {
+  "unit": "ss_catalogue_mem_r1",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_mem_r2",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_catalogue_mem_r3",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_cpu_r1",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_cpu_r2",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_cpu_r3",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_delay_r1",
+  "fault": "delay",
+  "hit3": 0.8333333333333334
+ },
+ {
+  "unit": "ss_orders_delay_r2",
+  "fault": "delay",
+  "hit3": 0.0
+ },
+ {
+  "unit": "ss_orders_delay_r3",
+  "fault": "delay",
+  "hit3": 0.5
+ },
+ {
+  "unit": "ss_orders_disk_r1",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_disk_r2",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_disk_r3",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_loss_r1",
+  "fault": "loss",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_loss_r2",
+  "fault": "loss",
+  "hit3": 0.6666666666666666
+ },
+ {
+  "unit": "ss_orders_loss_r3",
+  "fault": "loss",
+  "hit3": 0.16666666666666666
+ },
+ {
+  "unit": "ss_orders_mem_r1",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_mem_r2",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_orders_mem_r3",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_payment_cpu_r1",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_payment_cpu_r2",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_payment_cpu_r3",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_payment_delay_r1",
+  "fault": "delay",
+  "hit3": 0.16666666666666666
+ },
+ {
+  "unit": "ss_payment_delay_r2",
+  "fault": "delay",
+  "hit3": 0.25
+ },
+ {
+  "unit": "ss_payment_delay_r3",
+  "fault": "delay",
+  "hit3": 0.16666666666666666
+ },
+ {
+  "unit": "ss_payment_disk_r1",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_payment_disk_r2",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_payment_loss_r1",
+  "fault": "loss",
+  "hit3": 0.16666666666666666
+ },
+ {
+  "unit": "ss_payment_loss_r2",
+  "fault": "loss",
+  "hit3": 0.25
+ },
+ {
+  "unit": "ss_payment_loss_r3",
+  "fault": "loss",
+  "hit3": 0.75
+ },
+ {
+  "unit": "ss_payment_mem_r1",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_payment_mem_r2",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_payment_mem_r3",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_cpu_r1",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_cpu_r2",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_cpu_r3",
+  "fault": "cpu",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_delay_r1",
+  "fault": "delay",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_delay_r2",
+  "fault": "delay",
+  "hit3": 0.9166666666666666
+ },
+ {
+  "unit": "ss_user_delay_r3",
+  "fault": "delay",
+  "hit3": 0.9166666666666666
+ },
+ {
+  "unit": "ss_user_disk_r1",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_disk_r2",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_disk_r3",
+  "fault": "disk",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_loss_r1",
+  "fault": "loss",
+  "hit3": 0.3333333333333333
+ },
+ {
+  "unit": "ss_user_loss_r2",
+  "fault": "loss",
+  "hit3": 0.9166666666666666
+ },
+ {
+  "unit": "ss_user_loss_r3",
+  "fault": "loss",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_mem_r2",
+  "fault": "mem",
+  "hit3": 1.0
+ },
+ {
+  "unit": "ss_user_mem_r3",
+  "fault": "mem",
+  "hit3": 1.0
+ }
+]
