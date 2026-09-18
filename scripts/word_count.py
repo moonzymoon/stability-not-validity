@@ -3,7 +3,7 @@
 import re
 import glob
 
-t = open('paper/DKE_StabilityNotValidity.tex', encoding='utf-8').read()
+t = open('paper/INS_StabilityNotValidity.tex', encoding='utf-8').read()
 
 t = re.sub(r'(?<!\\)%.*', '', t)
 

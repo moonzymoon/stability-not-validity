@@ -50,7 +50,7 @@ p10 = body_text(open(r'D:/0科研/工作1/第11篇SCI/_p10_fulltext.txt', encodi
 p10 = p10[p10.find('Alarm management is a core'):]
 p10 = p10[:p10.find('[1] Abdulaal')] if '[1] Abdulaal' in p10 else p10
 
-p11 = body_text(extract(r'D:/0科研/工作1/第11篇SCI/paper/DKE_StabilityNotValidity.pdf'))
+p11 = body_text(extract(r'D:/0科研/工作1/第11篇SCI/paper/INS_StabilityNotValidity.pdf'))
 
 l10 = stats(p10, '第10篇 JIIS')
 l11 = stats(p11, '第11篇 DKE ')

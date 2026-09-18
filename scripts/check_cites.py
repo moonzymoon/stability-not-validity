@@ -2,7 +2,7 @@
 """检查 bib 条目与正文引用的对应关系。"""
 import re
 
-t = open('paper/DKE_StabilityNotValidity.tex', encoding='utf-8').read()
+t = open('paper/INS_StabilityNotValidity.tex', encoding='utf-8').read()
 bib = open('paper/references.bib', encoding='utf-8').read()
 
 cited = set()

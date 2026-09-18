@@ -2,7 +2,7 @@
 """轮5整合: AERCA附录表引用 + 6条文献 + 结论包络限定词."""
 import re
 
-TEX = r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex'
+TEX = r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex'
 BIB = r'D:\0科研\工作1\第11篇SCI\paper\references.bib'
 
 t = open(TEX, encoding='utf-8').read()

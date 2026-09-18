@@ -3,7 +3,7 @@
 import re
 import sys
 
-TEX = r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex'
+TEX = r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex'
 t = open(TEX, encoding='utf-8').read()
 
 m = re.search(r'\\begin\{abstract\}(.*?)\\end\{abstract\}', t, re.S)

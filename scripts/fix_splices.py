@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Fix the 4 comma splices found by find_splices.py."""
-TEX = r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex'
+TEX = r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex'
 t = open(TEX, encoding='utf-8').read()
 
 REPL = [

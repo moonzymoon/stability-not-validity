@@ -29,6 +29,16 @@ EXTRA = [
     'e30_graa_scorers', 'e31_rcaeval', 'e32_graa_clean', 'e34_mconv',
     'e36_ae_real', 'e37_edges', 'e37b_model', 'e38_selector',
     'e44_aerca', 'e48_topo_scale', 'e51_snr',
+    # 修订弹药 (Flash 2026-09-07): 深度基线 + 第五测试床 holdout/SS
+    'e65_attnn', 'e66_rcaeval2',
+    # 夜航加测 (Flash 2026-09-07): 预测器SS/AttNN扩展/AERCA-SS/对抗SS
+    'e67_predictor_ss', 'e68_attnn_ext', 'e69_aerca_ss',
+    'e70_adversarial_ss', 'e71_cert_ss', 'e72_aerca_te',
+    'e73_signif_ss', 'e75_adv_baselines_ss', 'e76_aerec_ss',
+    'e77_deploy_ablation', 'e78_mc_curve', 'e79_cov_vs_m',
+    'e80_zero_clamp', 'audit_v4', 'audit_r4',
+    # R7 (Flash 2026-09-12): 严格分组特征组消融 (e95 缓存重分析)
+    'e95b_strict_groups',
 ]
 POST = ['gen_tables', 'gen_boost_tables', 'make_sci_figures']
 

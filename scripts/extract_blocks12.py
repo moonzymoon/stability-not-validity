@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """提取块1(引言+相关工作)与块2(方法部分) —— 原文逐字, 不改写."""
-t = open('paper/DKE_StabilityNotValidity.tex', encoding='utf-8').read()
+t = open('paper/INS_StabilityNotValidity.tex', encoding='utf-8').read()
 
 i1 = t.find('\\section{Introduction}')
 i2 = t.find('\\section{Benchmark design}')

@@ -1,0 +1,18 @@
+{
+ "protocol": "strict leave-one-trajectory-out (same folds as e95)",
+ "folds": [
+  "scm0",
+  "scm1",
+  "scm2",
+  "scm3",
+  "scm4",
+  "te_"
+ ],
+ "full": 0.587716684165995,
+ "drop_graph": 0.5753494368746808,
+ "drop_consistency": 0.590506695916897,
+ "drop_attribution": 0.5693362676513234,
+ "drop_scorer": 0.579948846757846,
+ "drop_data": 0.60770021802349,
+ "only_consistency": 0.37050006183297785
+}

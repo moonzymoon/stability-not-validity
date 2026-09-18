@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """轮7: 三外审综合修复 F2-F25 (F1/F26/F27 待实验结果)."""
-t = open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex',
+t = open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex',
          encoding='utf-8').read()
 n = [0]
 
@@ -108,6 +108,6 @@ rep("driven by cross-dataset heterogeneity.",
 rep("\\mathcal{P}_{\\mathrm{del}}/\\mathcal{P}_{\\mathrm{add}}/\n\\mathcal{P}_{\\mathrm{rew}}$ for graph-dependent methods",
     "\\mathcal{Q}_{\\mathrm{del}}/\\mathcal{Q}_{\\mathrm{add}}/\n\\mathcal{Q}_{\\mathrm{rew}}$ (operator sub-families of\n$\\mathcal{Q}_\\delta$) for graph-dependent methods", 'F25')
 
-open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex', 'w',
+open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex', 'w',
      encoding='utf-8').write(t)
 print(f'{n[0]} fixes applied')

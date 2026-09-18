@@ -2,7 +2,7 @@
 """修复三处 heredoc 控制字符/断行损伤 + 广谱断裂扫描."""
 import re
 
-P = r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex'
+P = r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex'
 t = open(P, encoding='utf-8').read()
 
 n1 = t.count('\x0c\\finding{A published')

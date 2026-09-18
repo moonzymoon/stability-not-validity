@@ -2,7 +2,7 @@
 """检查 \beta 的真实用法 (避开 shell 转义地狱)."""
 import re
 
-t = open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex',
+t = open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex',
          encoding='utf-8').read()
 pat = re.compile(r'\\beta')
 hits = [m.start() for m in pat.finditer(t)]

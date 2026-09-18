@@ -42,7 +42,7 @@ def resolve(t, d):
 
 
 # P11: 从PDF取正文(引言到参考文献前)
-d11 = fitz.open(r'D:/0科研/工作1/第11篇SCI/paper/DKE_StabilityNotValidity.pdf')
+d11 = fitz.open(r'D:/0科研/工作1/第11篇SCI/paper/INS_StabilityNotValidity.pdf')
 t11 = ''
 for p in range(d11.page_count):
     t11 += d11[p].get_text() + '\n'

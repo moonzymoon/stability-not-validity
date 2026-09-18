@@ -2,7 +2,7 @@
 """提取块3(定理/引理/证明)与块4(实验部分文本, 去图) —— 原文逐字, 不改写."""
 import re
 
-t = open('paper/DKE_StabilityNotValidity.tex', encoding='utf-8').read()
+t = open('paper/INS_StabilityNotValidity.tex', encoding='utf-8').read()
 
 # 块3: 全部 proposition / corollary / theorem / lemma / proof 环境(逐字)
 pat = re.compile(

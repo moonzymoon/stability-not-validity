@@ -3,7 +3,7 @@
 import re
 import collections
 
-t = open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex',
+t = open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex',
          encoding='utf-8').read()
 issues = []
 

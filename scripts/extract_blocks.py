@@ -2,7 +2,7 @@
 """提取块4: 实验文字 (737-1583), 去图环境与表input."""
 import re
 
-t = open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex',
+t = open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex',
          encoding='utf-8').read()
 lines = t.split('\n')
 seg = '\n'.join(lines[736:1583])

@@ -3,7 +3,7 @@
 import re
 
 P = r'D:\0科研\工作1\第11篇SCI\paper'
-tex = open(f'{P}\\DKE_StabilityNotValidity.tex', encoding='utf-8').read()
+tex = open(f'{P}\\INS_StabilityNotValidity.tex', encoding='utf-8').read()
 
 
 def has(pat, label):

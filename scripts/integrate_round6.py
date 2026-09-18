@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """轮6: 三外审综合修复 (16项文本修复)."""
-t = open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex',
+t = open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex',
          encoding='utf-8').read()
 n_fix = 0
 
@@ -78,6 +78,6 @@ rep("$p^{*}{=}\\mathrm{clip}(1-\\text{mean edge\nconfidence}, 0.1, 0.6)$",
 rep("The stable-wrong\nquadrant (upper left of the crossing) is densely populated.}",
     "The stable-wrong\nquadrant (upper left of the crossing; thresholds ACR@3 $>0.8$ and\nhit@3 $<0.4$) is densely populated.}", 'fig1')
 
-open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex', 'w',
+open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex', 'w',
      encoding='utf-8').write(t)
 print(f'{n_fix} fixes applied')

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """e50 官方满协议 AERCA 双指标结果重写入文 + Limitations/CL 同步."""
-t = open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex',
+t = open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex',
          encoding='utf-8').read()
 
 old = """To check that the benchmark is not self-referential, we ran
@@ -57,7 +57,7 @@ old2 = "AERCA (official implementation,\nepoch-capped) enters on the two real in
 new2 = ("AERCA (official implementation and\nbudget) enters on all four testbeds with both metrics")
 assert t.count(old2) == 1, 'limitations anchor'
 t = t.replace(old2, new2, 1)
-open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex', 'w',
+open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex', 'w',
      encoding='utf-8').write(t)
 
 cl_path = r'D:\0科研\工作1\第11篇SCI\04_投稿准备\CoverLetter_DKE.txt'

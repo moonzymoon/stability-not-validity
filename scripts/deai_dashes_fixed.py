@@ -5,8 +5,8 @@ Pass-1 bug ate the first letter after each single-dash conversion;
 this version re-emits the captured letter."""
 import re
 
-TEX = r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex'
-BAK = TEX.replace('DKE_StabilityNotValidity.tex', '.tex_backup_predash')
+TEX = r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex'
+BAK = TEX.replace('INS_StabilityNotValidity.tex', '.tex_backup_predash')
 t = open(BAK, encoding='utf-8').read()
 
 VERBS = {'is', 'are', 'was', 'were', 'has', 'have', 'had', 'does', 'do',

@@ -83,8 +83,11 @@ ax.spines['top'].set_visible(False)
 ax.spines['right'].set_visible(False)
 ax.tick_params(labelsize=10)
 
-fig.suptitle('Stability does not certify validity in root-cause attribution',
+fig.suptitle('ARP: A dual-metric protocol for auditing root-cause attribution reliability',
              fontsize=16, color=DARK, y=1.03)
+fig.text(0.5, -0.035,
+         'attribution 0.1–2.2 ms per window  ·  predictor 0.05 ms  ·  code + caches public',
+         ha='center', fontsize=10.5, color='#555555')
 fig.tight_layout()
 fig.savefig(OUT + '.png', dpi=150, bbox_inches='tight', facecolor='white')
 fig.savefig(OUT + '.pdf', bbox_inches='tight', facecolor='white')

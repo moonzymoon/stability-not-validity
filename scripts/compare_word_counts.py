@@ -14,7 +14,7 @@ TEX = {
     'P8':  r'第8篇SCI/paper/ExpertSystems_CausallyGroundedLLM.tex',
     'P9':  r'第9篇SCI/paper/Elsevier_JLPPI_DETL_合并全文版.tex',
     'P10': r'第10篇SCI/paper/IDA_SAGE_FalseAlarmAttribution.tex',
-    'P11': r'第11篇SCI/paper/DKE_StabilityNotValidity.tex',
+    'P11': r'第11篇SCI/paper/INS_StabilityNotValidity.tex',
 }
 DOCX = {
     'P1': r'第1篇SCI/IEEE_Access_作者交付包_2026-08-03/01_最终稿件/IEEE_Access_Leakage_Resistant_MIL_Final.docx',

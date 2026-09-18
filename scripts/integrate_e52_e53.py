@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """e52 (purged CV) + e53 (adaptive p) 入文."""
-t = open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex',
+t = open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex',
          encoding='utf-8').read()
 
 old1 = "($\\sigma{\\approx}0.02$--$0.04$); the mean is retained throughout."
@@ -23,6 +23,6 @@ ins = (" A purged temporal split (train on the first 70\\% of each\n"
        "datasets pooled as in LODO) reaches AUROC 0.81, so the LODO\n"
        "estimate is not inflated by adjacent-window correlation.")
 t = t[:end] + ins + t[end:]
-open(r'D:\0科研\工作1\第11篇SCI\paper\DKE_StabilityNotValidity.tex', 'w',
+open(r'D:\0科研\工作1\第11篇SCI\paper\INS_StabilityNotValidity.tex', 'w',
      encoding='utf-8').write(t)
 print('e52+e53 integrated')
