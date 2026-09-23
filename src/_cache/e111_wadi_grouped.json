@@ -1,0 +1,79 @@
+{
+ "diagnosis": {
+  "record_split_window_overlap_reps": [
+   0.4715,
+   0.4956,
+   0.4755,
+   0.4795,
+   0.4956
+  ],
+  "record_split_window_overlap_mean": 0.4835
+ },
+ "grouped_recalib200": {
+  "reps": [
+   {
+    "labeled_rows": 207,
+    "labeled_windows": 23,
+    "eval_windows": 249,
+    "eval_rows": 2241,
+    "base": 0.2776,
+    "auroc": 0.7924,
+    "prauc": 0.6555,
+    "top30": 0.5878,
+    "top30_p": 2.1861975975755765e-97
+   },
+   {
+    "labeled_rows": 207,
+    "labeled_windows": 23,
+    "eval_windows": 249,
+    "eval_rows": 2241,
+    "base": 0.2722,
+    "auroc": 0.8075,
+    "prauc": 0.6608,
+    "top30": 0.6116,
+    "top30_p": 1.2062941860614295e-117
+   },
+   {
+    "labeled_rows": 207,
+    "labeled_windows": 23,
+    "eval_windows": 249,
+    "eval_rows": 2241,
+    "base": 0.2789,
+    "auroc": 0.6877,
+    "prauc": 0.5753,
+    "top30": 0.5357,
+    "top30_p": 4.482753958565228e-67
+   },
+   {
+    "labeled_rows": 207,
+    "labeled_windows": 23,
+    "eval_windows": 249,
+    "eval_rows": 2241,
+    "base": 0.2789,
+    "auroc": 0.6831,
+    "prauc": 0.6255,
+    "top30": 0.5342,
+    "top30_p": 2.5332124038356995e-66
+   },
+   {
+    "labeled_rows": 207,
+    "labeled_windows": 23,
+    "eval_windows": 249,
+    "eval_rows": 2241,
+    "base": 0.27,
+    "auroc": 0.7995,
+    "prauc": 0.5886,
+    "top30": 0.5551,
+    "top30_p": 1.3235018110120412e-83
+   }
+  ],
+  "auroc_mean": 0.754,
+  "auroc_min": 0.6831,
+  "prauc_mean": 0.6211,
+  "base_mean": 0.2755,
+  "top30_mean": 0.5649,
+  "top30_min": 0.5342,
+  "top30_p_max": 2.5332124038356995e-66,
+  "labeled_windows_mean": 23.0
+ }
+}

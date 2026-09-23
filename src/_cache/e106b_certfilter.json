@@ -1,0 +1,218 @@
+{
+ "n_certified": 6368,
+ "certified_wrong_rate_pooled": 0.628,
+ "fold_auc_logreg": {
+  "rel0": 0.5673,
+  "rel1": 0.2824,
+  "rel2": 0.7994,
+  "rel3": 0.8009,
+  "rel4": 0.6311,
+  "scm0": 0.7027,
+  "scm1": 0.5778,
+  "scm2": 0.5899,
+  "scm3": 0.6324,
+  "scm4": 0.6185,
+  "te": 0.778
+ },
+ "fold_auc_logreg_mean": 0.6346,
+ "_protocol": "fold-internal median imputation and z-scoring (e106c); subset = c_cons_topk3>=0.999 empirical perfectly stable windows",
+ "risk_coverage_foldnorm": [
+  {
+   "keep_frac": 1.0,
+   "remaining_n": 6368,
+   "wrong_rate": 0.628,
+   "rejected_wrong_rate": null
+  },
+  {
+   "keep_frac": 0.9,
+   "remaining_n": 5731,
+   "wrong_rate": 0.6201,
+   "rejected_wrong_rate": 0.6986
+  },
+  {
+   "keep_frac": 0.8,
+   "remaining_n": 5094,
+   "wrong_rate": 0.6001,
+   "rejected_wrong_rate": 0.7394
+  },
+  {
+   "keep_frac": 0.7,
+   "remaining_n": 4458,
+   "wrong_rate": 0.576,
+   "rejected_wrong_rate": 0.7492
+  },
+  {
+   "keep_frac": 0.6,
+   "remaining_n": 3821,
+   "wrong_rate": 0.5485,
+   "rejected_wrong_rate": 0.7472
+  },
+  {
+   "keep_frac": 0.5,
+   "remaining_n": 3184,
+   "wrong_rate": 0.5207,
+   "rejected_wrong_rate": 0.7352
+  },
+  {
+   "keep_frac": 0.4,
+   "remaining_n": 2547,
+   "wrong_rate": 0.4923,
+   "rejected_wrong_rate": 0.7184
+  },
+  {
+   "keep_frac": 0.3,
+   "remaining_n": 1910,
+   "wrong_rate": 0.4791,
+   "rejected_wrong_rate": 0.6918
+  },
+  {
+   "keep_frac": 0.2,
+   "remaining_n": 1274,
+   "wrong_rate": 0.4843,
+   "rejected_wrong_rate": 0.6639
+  }
+ ],
+ "per_fold_table": [
+  {
+   "fold": "rel0",
+   "n": 204,
+   "fold_base_wrong": 0.5049,
+   "keep20_wrong": 0.4,
+   "reject10_wrong": 0.4
+  },
+  {
+   "fold": "rel1",
+   "n": 222,
+   "fold_base_wrong": 0.5405,
+   "keep20_wrong": 0.7727,
+   "reject10_wrong": 0.2273
+  },
+  {
+   "fold": "rel2",
+   "n": 184,
+   "fold_base_wrong": 0.163,
+   "keep20_wrong": 0.0,
+   "reject10_wrong": 0.6111
+  },
+  {
+   "fold": "rel3",
+   "n": 235,
+   "fold_base_wrong": 0.5574,
+   "keep20_wrong": 0.2553,
+   "reject10_wrong": 0.913
+  },
+  {
+   "fold": "rel4",
+   "n": 212,
+   "fold_base_wrong": 0.3962,
+   "keep20_wrong": 0.1905,
+   "reject10_wrong": 0.381
+  },
+  {
+   "fold": "scm0",
+   "n": 700,
+   "fold_base_wrong": 0.52,
+   "keep20_wrong": 0.3,
+   "reject10_wrong": 0.7714
+  },
+  {
+   "fold": "scm1",
+   "n": 676,
+   "fold_base_wrong": 0.5414,
+   "keep20_wrong": 0.437,
+   "reject10_wrong": 0.4925
+  },
+  {
+   "fold": "scm2",
+   "n": 615,
+   "fold_base_wrong": 0.6634,
+   "keep20_wrong": 0.561,
+   "reject10_wrong": 0.5902
+  },
+  {
+   "fold": "scm3",
+   "n": 772,
+   "fold_base_wrong": 0.544,
+   "keep20_wrong": 0.3766,
+   "reject10_wrong": 0.6494
+  },
+  {
+   "fold": "scm4",
+   "n": 712,
+   "fold_base_wrong": 0.5772,
+   "keep20_wrong": 0.3521,
+   "reject10_wrong": 0.5775
+  },
+  {
+   "fold": "te",
+   "n": 1836,
+   "fold_base_wrong": 0.8508,
+   "keep20_wrong": 0.7275,
+   "reject10_wrong": 0.9672
+  }
+ ],
+ "keep20_below_base_folds": "10/11",
+ "reject10_above_base_folds": "6/11",
+ "calibration_deciles_foldnorm": [
+  {
+   "decile": 0,
+   "n": 643,
+   "pred_wrong_pctile": 0.05,
+   "obs_wrong": 0.5412
+  },
+  {
+   "decile": 1,
+   "n": 633,
+   "pred_wrong_pctile": 0.15,
+   "obs_wrong": 0.4265
+  },
+  {
+   "decile": 2,
+   "n": 637,
+   "pred_wrong_pctile": 0.25,
+   "obs_wrong": 0.4678
+  },
+  {
+   "decile": 3,
+   "n": 635,
+   "pred_wrong_pctile": 0.35,
+   "obs_wrong": 0.5339
+  },
+  {
+   "decile": 4,
+   "n": 635,
+   "pred_wrong_pctile": 0.45,
+   "obs_wrong": 0.6346
+  },
+  {
+   "decile": 5,
+   "n": 635,
+   "pred_wrong_pctile": 0.55,
+   "obs_wrong": 0.6866
+  },
+  {
+   "decile": 6,
+   "n": 637,
+   "pred_wrong_pctile": 0.65,
+   "obs_wrong": 0.741
+  },
+  {
+   "decile": 7,
+   "n": 635,
+   "pred_wrong_pctile": 0.75,
+   "obs_wrong": 0.7685
+  },
+  {
+   "decile": 8,
+   "n": 635,
+   "pred_wrong_pctile": 0.85,
+   "obs_wrong": 0.7858
+  },
+  {
+   "decile": 9,
+   "n": 643,
+   "pred_wrong_pctile": 0.95,
+   "obs_wrong": 0.6936
+  }
+ ]
+}

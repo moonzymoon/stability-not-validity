@@ -1,0 +1,49 @@
+{
+ "joint": {
+  "auc": 0.6346,
+  "folds": 11
+ },
+ "structure_only": {
+  "auc": 0.6187,
+  "folds": 11
+ },
+ "identity_only": {
+  "auc": 0.6071,
+  "folds": 11
+ },
+ "leave_one_method": {
+  "AERec": {
+   "auc": 0.6289,
+   "folds": 11
+  },
+  "CondAttr": {
+   "auc": 0.6378,
+   "folds": 11
+  },
+  "DPTA-G": {
+   "auc": 0.5445,
+   "folds": 11
+  },
+  "GlobalCF": {
+   "auc": 0.6377,
+   "folds": 11
+  },
+  "Grad": {
+   "auc": 0.6355,
+   "folds": 11
+  },
+  "GraphGranger": {
+   "auc": 0.6491,
+   "folds": 11
+  },
+  "PropRank": {
+   "auc": 0.6323,
+   "folds": 11
+  },
+  "zDev": {
+   "auc": 0.6346,
+   "folds": 11
+  }
+ },
+ "_protocol": "fold-internal median imputation and z-scoring (e108b); leave_one_method drops the method from both train and test (subset-replication reading)"
+}
